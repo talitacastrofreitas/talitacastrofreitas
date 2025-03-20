@@ -4,7 +4,7 @@
 
 - 👩‍💻 Hoje trabalho como Analista de Desenvolvimento de Software Jr.
 - 📖 Graduada em Análise e Desenvolvimento de Sistema
-- 📖 Pós-Graduanda em Engenharia de Software
+- 📖 Pós-Graduanda em Engenharia de Software - PUC-MG
 - 😊 Pronome: Ela/dela
 
 ##
