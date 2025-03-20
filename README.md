@@ -3,7 +3,7 @@
 # Olá!!! Eu sou Talita Castro
 
 - 👩‍💻 Hoje trabalho como Analista de Desenvolvimento de Software Jr.
-- 📖 Graduada em Análise e Desenvolvimento de Sistema
+- 📖 Graduada em Análise e Desenvolvimento de Sistema - Unifavip
 - 📖 Pós-Graduanda em Engenharia de Software - PUC-MG
 - 😊 Pronome: Ela/dela
 
